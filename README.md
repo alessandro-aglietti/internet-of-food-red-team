@@ -7,6 +7,8 @@ Source of Red Team works during hackathon: data is streamed in real-time from Er
 
 Data streamed in BigQuery will be analyzed w/ Google Spreadsheets: https://docs.google.com/spreadsheets/d/1vhpyl3kkDz5rzYYDX_n48VSoecDXmpFyq2ZtCzrHFSE/edit
 
+We use a Google Site to present data aggregation: https://sites.google.com/site/internetoffoodredteam/
+
 Red Team
 
 - Alessandro Aglietti http://aqquadro.it
